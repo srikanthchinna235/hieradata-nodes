@@ -1,0 +1,2 @@
+---
+role: 'roles::rhel7::base'
